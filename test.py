@@ -5,3 +5,4 @@ print("""When other men blindly follow the truth,remember...Nothing is true
         Nothing is true,everything is permitted.""") #by 杨某人
 print("全名制作人们大家好，我是练习时长两年半的个人练习生：蔡徐坤，喜欢唱跳RAP篮球，MUSIC？")
 print(1+1==2)
+print(2+2==4)
